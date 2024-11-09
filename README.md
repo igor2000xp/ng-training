@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
 
+## Links
+
+[GitHub](https://github.com/igor2000xp/ng-training)
+
+[StackBlitz-00](https://stackblitz.com/edit/github-lmoshz)
+
+[StackBlitz](https://stackblitz.com/~/github.com/igor2000xp/ng-training)
+
+***/Volumes/MacUss/Users/__louvre02/_angular/Alain/ng-training***
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
